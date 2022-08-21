@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(36, 145, 199);
+}
+
+img {height: 150px;
+}
+
+li {
+    color: rgb(5, 22, 29);
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color:rgb(214, 214, 45);
+}
+h2 {
+    color: rgb(214, 214, 45);
+}
+h3 {
+    color: rgba(214, 214, 45);
+}
+.blue-bg div {
+    background: blue;
+}
+
+.red-bg div {
+    background: red;
+}
+
+.black-txt div {
+
+    color: black;
+}
+
+#font-32 {
+    font-size: 43px;
+    color: aqua;
+}
+
+.bio {
+
+    color: rgb(237, 9, 9);
+}
+
+.rainbow-letters {
+    
+  }
+  
+  .rainbow-letters span:nth-child(10n + 1) {
+    color: #ef5350;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 2) {
+    color: #57bc28;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 3){
+    color: #e9a909;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 4){
+    color: #63d6a2;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 5) {
+    color: #2196f3;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 6){
+    color: #00bcd4;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 7){
+    color: #4caf50;
+  }
+  
+  .rainbow-letters span:nth-child(10n + 8){
+    color: #ffc107;
+  }
+
+  .rainbow-letters span:nth-child(10n + 9){
+    color: #23c035;
+  }
+
+  .rainbow-letters span:nth-child(10n + 10){
+    color: #ce19b0;
+  }
